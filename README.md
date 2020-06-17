@@ -22,3 +22,6 @@ Using PySpark DataFrame, this project:
 2, builds a machine learning pipeline, takes the body text as the features to predict whether a question contains one of the top ten most
 common tags(finds out with MapReduce); removes stopwords, tokenize the texts, uses HashingTF as the transformer and logistic regression as
 the estimator; uses cross validation to tune hyper parameters.
+
+Skills:
+PySpark RDD, PySpark DataFrame, MapReduce, Word2vec, Classification
